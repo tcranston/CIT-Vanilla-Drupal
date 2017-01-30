@@ -88,7 +88,7 @@ projects[webform][version] = "4.14"
 ; Themes
 projects[simplecorp][version] = "1.1"
 projects[corporateclean][version] = "2.3"
-projects[corporateclean][version] = "1.1"
+projects[bootstrap_business][version] = "1.1"
 projects[bootstrap][version] = "3.10"
 
 
