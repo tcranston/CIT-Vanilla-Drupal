@@ -18,6 +18,7 @@ projects[backup_migrate][version] = "3.1"
 projects[ckeditor][version] = "1.17"
 projects[computed_field][version] = "1.1"
 projects[ctools][version] = "1.12"
+projects[custom_formatters][version] = "2.4"
 
 ; D
 projects[date][version] = "2.9"
