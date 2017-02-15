@@ -21,6 +21,7 @@ projects[ctools][version] = "1.12"
 projects[custom_formatters][version] = "2.4"
 
 ; D
+projects[default_menu_link][version] = "1.3"
 projects[date][version] = "2.9"
 projects[devel][version] = "1.5"
 
@@ -49,9 +50,13 @@ projects[imce][version] = "1.10"
 ; J
 ; K  
 ; L
+projects[libraries][version] = "2.3"
 projects[link][version] = "1.4"
+projects[live_css][version] = "2.12"
 
 ; M  
+projects[masquerade][version] = "1.0-rc7"
+projects[menu_attributes][version] = "1.0"
 projects[menu_target][version] = "1.6"
 projects[module_filter][version] = "2.0"
 
@@ -72,6 +77,7 @@ projects[token][version] = "1.7"
 ; V 
 projects[views][version] = "3.14"
 projects[views_accordion][version] = "1.1"
+projects[views_bootstrap][version] = "3.x-dev"
 projects[views_bulk_operations][version] = "3.3"
 projects[viewfield][version] = "2.1"
 projects[views_field_view][version] = "1.2"
