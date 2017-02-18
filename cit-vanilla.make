@@ -39,6 +39,8 @@ projects[field_collection][version] = "1.0-beta12"
 projects[field_collection_views][version] = "1.0-beta3"
 projects[field_group][version] = "1.5"
 projects[field_validation][version] = "2.6"
+projects[front][version] = "2.4"
+
 
 ; G 
 projects[google_analytics][version] = "2.3"
@@ -67,6 +69,8 @@ projects[pathauto][version] = "1.3"
 
 ; Q  
 ; R
+projects[rules][version] = "2.9"
+
 ; S 
 projects[scheduler][version] = "1.5"
 
