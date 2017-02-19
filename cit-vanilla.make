@@ -27,6 +27,7 @@ projects[devel][version] = "1.5"
 
 ; E 
 projects[easy_breadcrumb][version] = "2.12"
+projects[encrypt][version] = "2.3"
 projects[entity][version] = "1.8"
 projects[entityreference][version] = "1.2"
 projects[entity_view_mode][version] = "1.0-rc1"
@@ -39,8 +40,9 @@ projects[field_collection][version] = "1.0-beta12"
 projects[field_collection_views][version] = "1.0-beta3"
 projects[field_group][version] = "1.5"
 projects[field_validation][version] = "2.6"
+projects[fontawesome][version] = "2.6"
+projects[form_builder][version] = "1.20"
 projects[front][version] = "2.4"
-
 
 ; G 
 projects[google_analytics][version] = "2.3"
@@ -64,6 +66,9 @@ projects[module_filter][version] = "2.0"
 
 ; N
 ; O 
+projects[options_element][version] = "1.12"
+
+
 ; P  
 projects[pathauto][version] = "1.3"
 
@@ -90,6 +95,9 @@ projects[views_responsive_grid][version] = "1.3"
 
 ; W  
 projects[webform][version] = "4.14"
+projects[webform_classes][version] = "2.23"
+projects[webform_encrypt][version] = "1.1"
+projects[webform_layout][version] = "2.23"
 
 ; X 
 ; Y  
@@ -103,7 +111,12 @@ projects[bootstrap_business][version] = "1.1"
 projects[bootstrap][version] = "3.10"
 
 
-
+; Libraries 
+libraries:
+  fontawesome:
+    download:
+      type: "file"
+      url: "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.zip"
 
 
 
