@@ -8,8 +8,9 @@ projects[drupal][version] = "7.53"
 ; Modules
 
 ; A
-projects[admin_views][version] = "1.6"
+projects[admin_menu][version] = "3.0-rc5"
 projects[auto_nodetitle][version] = "1.0"
+projects[admin_views][version] = "1.6"
 
 ; B
 projects[backup_migrate][version] = "3.1"
@@ -84,10 +85,10 @@ projects[token][version] = "1.7"
 
 ; U 
 ; V 
-projects[views][version] = "3.14"
+projects[views][version] = "3.15"
 projects[views_accordion][version] = "1.1"
 projects[views_bootstrap][version] = "3.x-dev"
-projects[views_bulk_operations][version] = "3.3"
+projects[views_bulk_operations][version] = "3.4"
 projects[viewfield][version] = "2.1"
 projects[views_field_view][version] = "1.2"
 projects[views_php][version] = "1.0-alpha3"
@@ -108,7 +109,7 @@ projects[webform_layout][version] = "2.23"
 projects[simplecorp][version] = "1.1"
 projects[corporateclean][version] = "2.3"
 projects[bootstrap_business][version] = "1.1"
-projects[bootstrap][version] = "3.10"
+projects[bootstrap][version] = "3.12"
 
 
 ; Libraries 
