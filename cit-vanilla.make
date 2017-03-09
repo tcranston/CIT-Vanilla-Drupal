@@ -30,10 +30,13 @@ projects[devel][version] = "1.5"
 projects[easy_breadcrumb][version] = "2.12"
 projects[encrypt][version] = "2.3"
 projects[entity][version] = "1.8"
+projects[entityform][version] = "2.0-rc3"
 projects[entityreference][version] = "1.2"
 projects[entity_view_mode][version] = "1.0-rc1"
 projects[eu_cookie_compliance][version] = "1.14"
 projects[extlink][version] = "1.18"
+
+
 
 ; F 
 projects[features][version] = "2.10" 
