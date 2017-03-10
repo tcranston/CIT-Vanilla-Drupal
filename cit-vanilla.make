@@ -25,6 +25,7 @@ projects[custom_formatters][version] = "2.4"
 projects[default_menu_link][version] = "1.3"
 projects[date][version] = "2.9"
 projects[devel][version] = "1.5"
+projects[ds][version] = "2.14"
 
 ; E 
 projects[easy_breadcrumb][version] = "2.12"
