@@ -2,7 +2,7 @@ core = 7.x
 api = 2
 
 ; Core
-projects[drupal][version] = "7.53"
+projects[drupal][version] = "7.55"
 
 
 ; Modules
@@ -24,7 +24,7 @@ projects[custom_formatters][version] = "2.4"
 
 ; D
 projects[default_menu_link][version] = "1.3"
-projects[date][version] = "2.9"
+projects[date][version] = "2.10"
 projects[devel][version] = "1.5"
 projects[ds][version] = "2.14"
 
@@ -32,8 +32,8 @@ projects[ds][version] = "2.14"
 projects[easy_breadcrumb][version] = "2.12"
 projects[encrypt][version] = "2.3"
 projects[entity][version] = "1.8"
-projects[entityform][version] = "2.0-rc3"
-projects[entityreference][version] = "1.2"
+projects[entityform][version] = "2.0-rc4"
+projects[entityreference][version] = "1.4"
 projects[entity_view_mode][version] = "1.0-rc1"
 projects[eu_cookie_compliance][version] = "1.14"
 projects[extlink][version] = "1.18"
@@ -55,7 +55,7 @@ projects[google_analytics][version] = "2.3"
 
 ; H 
 ; I 
-projects[imce][version] = "1.10"
+projects[imce][version] = "1.11"
 
 ; J
 ; K  
@@ -68,7 +68,7 @@ projects[live_css][version] = "2.12"
 projects[masquerade][version] = "1.0-rc7"
 projects[menu_attributes][version] = "1.0"
 projects[menu_target][version] = "1.6"
-projects[module_filter][version] = "2.0"
+projects[module_filter][version] = "2.1"
 
 ; N
 ; O 
@@ -90,7 +90,7 @@ projects[token][version] = "1.7"
 
 ; U 
 ; V 
-projects[views][version] = "3.15"
+projects[views][version] = "3.16"
 projects[views_accordion][version] = "1.1"
 projects[views_bootstrap][version] = "3.x-dev"
 projects[views_bulk_operations][version] = "3.4"
@@ -100,9 +100,9 @@ projects[views_php][version] = "1.0-alpha3"
 projects[views_responsive_grid][version] = "1.3"
 
 ; W  
-projects[webform][version] = "4.14"
+projects[webform][version] = "4.15"
 projects[webform_classes][version] = "2.23"
-projects[webform_encrypt][version] = "1.1"
+projects[webform_encrypt][version] = "1.3"
 projects[webform_layout][version] = "2.23"
 
 ; X 
@@ -114,7 +114,7 @@ projects[webform_layout][version] = "2.23"
 projects[simplecorp][version] = "1.1"
 projects[corporateclean][version] = "2.3"
 projects[bootstrap_business][version] = "1.1"
-projects[bootstrap][version] = "3.12"
+projects[bootstrap][version] = "3.14"
 
 
 ; Libraries 
