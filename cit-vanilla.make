@@ -14,6 +14,7 @@ projects[admin_views][version] = "1.6"
 
 ; B
 projects[backup_migrate][version] = "3.1"
+projects[bundle_copy][version] = "1.1"
 
 ; C
 projects[ckeditor][version] = "1.17"
